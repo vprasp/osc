@@ -10,4 +10,4 @@ sudo python setup.py install
 Cd examples
 sudo apt-get install python-matplotlib
 
-sudo osc.py
+sudo osci.py
